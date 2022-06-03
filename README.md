@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1>Carlos Garibo Gil</h1>
 
-<!--
-**cgaribo/cgaribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="https://www.linkedin.com/in/carlos-garibo-gil" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"
+            alt="LinkedIn Carlos Garibo Gil" />
+    </a>
+    <a href="https://github.com/cgaribo" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="GitHub Carlos Garibo Gil" />
+    </a>
+</p>
